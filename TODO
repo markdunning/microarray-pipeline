@@ -1,0 +1,17 @@
+Serial option to process arrays
+
+calculate md5 sums and store
+
+Example P95 historical data
+
+Interactive QC visualisation
+
+Include SQL and galaxy stuff 
+
+knitr as Sweave alternative
+
+More elegant handling if useImages is specified, but none are found
+
+Dry run option - If files needed for bead-level analysis is there, check if annotation is correct, if data have been summarised, problems with sample sheet.
+
+GEO submission

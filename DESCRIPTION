@@ -1,0 +1,13 @@
+Package: crimp
+Type: Package
+Title: CRI Microarray Pipeline
+Version: 1.0
+Date: 2012-06-30
+Author: Mark Dunning, Suraj Menon, Stewart MacArthur
+Maintainer: Mark Dunning <mark.dunning@cruk.cam.ac.uk>
+Description: Compilation of functions that form the pipeline used for processing Illumina BeadArrays at the Cambridge Research Institute. Bead-level data are read in parallel using the beadarray package and various quality assessment plots are produced. Differential expression is performed using limma and several other popular Bioconductor packages are used for downstream analysis. A pdf document is produced that documents the analysis.
+Depends: limma, WGCNA, RColorBrewer, geneplotter, hwriter, xtable, hopach, beadarray, gridExtra, BeadDataPackR, gplots, RSQLite, googleVis
+Imports: AnnotationDbi
+License: GPL-2
+
+
